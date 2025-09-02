@@ -1,5 +1,5 @@
 # Algo_trading
-# Multi-Asset Momentum Trading 
+# Multi-Asset Momentum Trading Project
 
 ## Overview
 A **multi-asset trading strategy** using **Bollinger Bands** to generate buy/sell signals.  
