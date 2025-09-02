@@ -1,1 +1,1 @@
-# Algo_tradinng
+# Algo_trading
