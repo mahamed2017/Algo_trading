@@ -3,7 +3,7 @@
 
 ## Overview
 A **multi-asset trading strategy** using **Bollinger Bands** to generate buy/sell signals.  
-The strategy is backtested on historical stock data for **AAPL, MSFT, AMZN**, evaluating metrics such as **Sharpe ratio**, **max drawdown**, and **total return**.
+The strategy is backtested on historical stock data for **AAPL, MSFT, AMZN and NVDA**, evaluating metrics such as **Sharpe ratio**, **max drawdown**, and **total return**.
 
 ---
 
@@ -18,7 +18,7 @@ The strategy is backtested on historical stock data for **AAPL, MSFT, AMZN**, ev
 
 ## Dataset
 - Daily closing prices from **2018-01-01** to **2025-01-01**  
-- Tickers: `AAPL`, `MSFT`, `AMZN`  
+- Tickers: `AAPL`, `MSFT`, `AMZN`,  `NVDA`
 
 ---
 
